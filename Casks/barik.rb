@@ -1,6 +1,6 @@
 cask "barik" do
-  version '0.5.0'
-  sha256 "3d44fc72d28049f7a73a415231cdf8179c58c1ab570f951b13ccd0cdcbab07ce"
+  version '0.5.1'
+  sha256 "c858254283fbc096aaa4e61dd15be7a0ac565595129d2285295ab933b5e060b5"
 
   url "https://github.com/mocki-toki/barik/releases/download/#{version}/Barik.zip"
   name "Barik"
